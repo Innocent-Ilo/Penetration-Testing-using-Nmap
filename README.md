@@ -8,14 +8,14 @@ Tools Used
  Metasploitable 2
 EVIDENCE
 Nmap Scan
-![Nmap Scan](picture.png)
+![Nmap Scan](vulnass1.png)
  Key Findings
  VSFTPD Backdoor (High)
  Samba Vulnerabilities (High)
 EVIDENCE
-![Nmap Scan](Picture1.png)
-![Nmap Scan](Picture3.png)
-![Nmap Scan](Picture5.png)
+![Nmap Scan](vulnass2.png)
+![Nmap Scan](vulnass4.png.png)
+![Nmap Scan](vulnass5.png)
 
 Author
 Innocent Ezekiel Ilo
