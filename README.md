@@ -13,7 +13,9 @@ Nmap Scan
  VSFTPD Backdoor (High)
  Samba Vulnerabilities (High)
 EVIDENCE
-![Nmap Scan](Picture1.png,Picture3.png,Picture5.png)
+![Nmap Scan](Picture1.png)
+![Nmap Scan](Picture3.png)
+![Nmap Scan](Picture5.png)
 
 Author
 Innocent Ezekiel Ilo
